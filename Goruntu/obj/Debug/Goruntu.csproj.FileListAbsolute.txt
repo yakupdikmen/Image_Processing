@@ -1,0 +1,10 @@
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\bin\Debug\Goruntu.exe.config
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\bin\Debug\Goruntu.exe
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\bin\Debug\Goruntu.pdb
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\obj\Debug\Goruntu.csprojAssemblyReference.cache
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\obj\Debug\Goruntu.Form1.resources
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\obj\Debug\Goruntu.Properties.Resources.resources
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\obj\Debug\Goruntu.csproj.GenerateResource.cache
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\obj\Debug\Goruntu.csproj.CoreCompileInputs.cache
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\obj\Debug\Goruntu.exe
+C:\Users\yakup_dikmen\source\repos\Goruntu\Goruntu\obj\Debug\Goruntu.pdb
